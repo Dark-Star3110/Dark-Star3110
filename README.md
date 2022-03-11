@@ -1,3 +1,8 @@
+<h1 align="center">Welcome to my GitHub profile (′ꈍωꈍ‵)</h1>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/20/31/91/2031918400c8fb124e57550f02da7425.png" alt="Banner"></a>
+</p>
+
 # Hi evreryone, I'm YukiNguci 💩
 
 ## I'm a Student, Newbie and Full-Stackoverflow Developer.!!
@@ -33,7 +38,13 @@
 
 ---
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Dark-Star3110&theme=tokyonight&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+### My GitHub Stats
+
+<br />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Dark-Star3110&theme=tokyonight&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" style="padding-right:100px;" />
+
+<p>
+  <img align="left" width="230px" alt="codeSTACKr's GitHub Stats" src="https://i.pinimg.com/originals/27/a7/25/27a725cb4ce7c884e704ca57b4eb7ca4.png" /></p>
 
 [vscode]: https://code.visualstudio.com/
 [html]: https://www.w3schools.com/html/
