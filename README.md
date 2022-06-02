@@ -3,14 +3,14 @@
   <img src="https://i.pinimg.com/originals/20/31/91/2031918400c8fb124e57550f02da7425.png" alt="Banner"></a>
 </p>
 
-# Hi evreryone, I'm YukiNguci 💩
+# Hi everyone, I'm YukiNguci 💩
 
 ## I'm a Student, Newbie and Full-Stackoverflow Developer.!!
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to eat and sleep
+-   🌱 I’m currently learning everything 🤣
+-   👯 I’m looking to collaborate with other content creators
+-   🥅 2022 Goals: Learn more about web3
+-   ⚡ Fun fact: I love to eat and sleep
 
 ### Languages and Tools:
 
@@ -26,12 +26,14 @@
 [<img align="left" alt="TypeScript" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" style="padding-right:10px;" />][tsplaylist]
 [<img align="left" alt="NextJS" width="26px" src="https://camo.githubusercontent.com/c457309037aabdce151cc0e197d6db98234a31636ef41f2cc1c339832fe20de3/68747470733a2f2f63646e2e61757468302e636f6d2f626c6f672f6c6f676f732f6e6578746a732d6c6f676f2e706e67" style="padding-right:10px;" />][next]
 [<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />][grql]
+[<img align="left" alt="Angular" width="26px" src="https://seeklogo.com/images/A/angular-icon-logo-9946B9795D-seeklogo.com.png" style="padding-right:10px;" />][angular]
 [<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][nodejsplaylist]
+[<img align="left" alt="SpingBoot" width="26px" src="https://i0.wp.com/totheinnovation.com/wp-content/uploads/2022/02/spring.png?resize=250%2C250&ssl=1" style="padding-right:10px;" />][spring]
 [<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][mgdb]
 [<img align="left" alt="PostgreSQL" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" style="padding-right:10px;" />][pg]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][git]
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />][git]
-[<img align="left" alt="Docker" width="26px" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" style="padding-right:10px;" />][docker]
+[<img align="left" alt="Docker" width="26px" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" style="padding-right:10px;" />][docker]
 
 <br />
 <br />
@@ -61,3 +63,5 @@
 [pg]: https://www.postgresql.org/
 [git]: https://github.com/
 [docker]: https://www.docker.com/
+[angular]: https://angular.io/
+[spring]: https://spring.io/projects/spring-boot
